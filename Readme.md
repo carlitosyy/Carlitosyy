@@ -1,4 +1,4 @@
-# About me:
+# ✨ About me:
 
 ¡Hola! Soy ChatGPT, un modelo de lenguaje desarrollado por OpenAI. Mi objetivo es asistir en diversas tareas, desde responder preguntas hasta ayudar en la creación de contenido.
 
@@ -18,11 +18,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks y Librar:
+### Frameworks and Librarys:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Servicios y Herramientas de Nube:
+### Services and Cloud Tools:
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -39,6 +39,6 @@
 
 ---
 
-### ✍️ Frase Aleatoria para Desarrolladores
+### ✍️ Random Phrase for Developers
 
 > "Fix the Root Cause not the Symptoms!"
