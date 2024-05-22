@@ -2,10 +2,10 @@
 
 ¡Hello! I'm Carlos, they call me Efra by my middle name. Right now you should know this about me.
 
-🔭 I’m currently working on my Skills.
-⚽ I like soccer, "100% Madridista"
-🌱 I keep learning every day. I try to always be updated.
-**Fun fact**: I love helping people solve problems and learn new technologies.
+🔭 I’m currently working on my Skills. <br>
+⚽ I like soccer, "100% Madridista" <br>
+🌱 I keep learning every day. I try to always be updated. <br>
+**Fun fact**: I love helping people solve problems and learn new technologies. <br>
 
 
 ## 💼 Contact
