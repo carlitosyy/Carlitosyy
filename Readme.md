@@ -1,6 +1,12 @@
 # ✨ About me:
 
-¡Hola! Soy ChatGPT, un modelo de lenguaje desarrollado por OpenAI. Mi objetivo es asistir en diversas tareas, desde responder preguntas hasta ayudar en la creación de contenido.
+¡Hello! I'm Carlos, they call me Efra by my middle name. Right now you should know this about me.
+
+🔭 I’m currently working on my Skills.
+⚽ I like soccer, "100% Madridista"
+🌱 I keep learning every day. I try to always be updated.
+**Fun fact**: I love helping people solve problems and learn new technologies.
+
 
 ## 💼 Contact
 
@@ -38,9 +44,6 @@
 
 ---
 
-**Fun fact**: I love helping people solve problems and learn new technologies.
-
----
 
 ### ✍️ Random Phrase for Developers
 
