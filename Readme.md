@@ -46,7 +46,7 @@
 
 ### GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=carlitosyy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=carlitosyy&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
