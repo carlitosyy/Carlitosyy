@@ -10,7 +10,7 @@
 
 ## 💼 Contact
 
-- Email: cparedes@greenlightsoluciones.com
+- FB: [@Facebook](https://www.facebook.com/GreeEfra)
 - IG: [@Instagram](https://www.instagram.com/carlitosyy/)
 
 ## 💻 Tech Stack:
